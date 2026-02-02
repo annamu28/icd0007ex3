@@ -134,7 +134,7 @@ kopeerige.
     korral suutma tuvastada veateate põhjal vea põhjuse.
 
     Kasutage veebi teste kalkulaatori rakenduse (ül. 2) testimiseks.
-    Testid leiate aadressilt [https://github.com/mkalmo2/icd0007tests](https://github.com/annamu28/icd0007tests.git).
+    Testid leiate aadressilt [https://github.com/annamu28/icd0007tests].
     Uuendage repot (git pull).
 
     Selle ülesande kohta käivad testid failist ex3a.php.
